@@ -1,0 +1,34 @@
+# N-Queens Problem using Python
+
+## Project Description
+
+This project is an implementation of the N-Queens Problem using Python, developed as part of the Codveda Python Development Internship.
+
+The N-Queens Problem is a classic backtracking algorithm challenge where N queens must be placed on an N×N chessboard so that no two queens attack each other. The application finds and displays valid arrangements of queens on the chessboard while following all constraints.
+
+## Features
+
+- Solves the N-Queens problem using Backtracking
+- Finds valid queen placements on the chessboard
+- Displays solutions in a readable board format
+- Supports different board sizes (N)
+- Efficient conflict checking for queen positions
+- Simple command-line interface
+- Basic error handling for invalid inputs
+
+## Technologies Used
+
+- Python
+- Backtracking Algorithm
+- Functions and Loops
+- Lists and Arrays
+- Command-Line Interface (CLI)
+
+## Learning Outcomes
+
+- Understanding of Backtracking Algorithms
+- Problem-Solving and Logical Thinking
+- Working with Two-Dimensional Data Structures
+- Algorithm Optimization Techniques
+- Python Programming Fundamentals
+- Debugging and Testing Skills
